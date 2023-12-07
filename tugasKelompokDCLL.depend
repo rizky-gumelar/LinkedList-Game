@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1669941375 source:d:\struktur data\tugaskelompokdcll\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<iomanip>
+
+1669941375 source:e:\semester 3\struktur data\tugaskelompokdcll\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<iomanip>
+
